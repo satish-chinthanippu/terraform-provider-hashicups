@@ -7,7 +7,7 @@ terraform {
 }
 
 provider "hashicups" {
-  host     = "http://vaa-cdt-ubuntu-1522:19090"
+  host     = "http://localhost:19090"
   username = "education"
   password = "test123"
 }
