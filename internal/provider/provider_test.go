@@ -17,7 +17,7 @@ const (
 	provider "hashicups" {
 	username = "education"
 	password = "test123"
-	host     = "http://vaa-cdt-ubuntu-1522:19090"
+	host     = "http://localhost:19090"
 	}
 	`
 )
